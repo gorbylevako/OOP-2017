@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1487501926 source:g:\Масягин\chastotnost\litera_chastotnost\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+
+1487711870 source:h:\Масягин\chastotnost\litera_chastotnost\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+

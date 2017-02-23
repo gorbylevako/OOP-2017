@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487449994 source:g:\Масягин\slau\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
